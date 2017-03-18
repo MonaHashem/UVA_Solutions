@@ -28,6 +28,7 @@ public class Stones_UVA12469 {
 		return 0;
 	}
 	
+	
 	public static void main(String[] args) throws IOException {
 		
 		Scanner sc= new Scanner(System.in);
